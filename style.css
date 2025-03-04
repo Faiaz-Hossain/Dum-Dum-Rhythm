@@ -1,0 +1,6 @@
+
+body {
+	background-color: rgb(37,37,37);
+		overflow: hidden; /* Prevent scrollbars */
+		margin: 0;        /* Remove browser default margin */
+  }
